@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779968408726",
+    "project_id": "garden-of-poem",
+    "storage_bucket": "garden-of-poem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779968408726:android:e43793c9755ccbbfdba6b7",
+        "android_client_info": {
+          "package_name": "com.example.garden_of_poem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779968408726-c2g2nucvr9i3dh04kjubtdbs3ocna550.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXSIElUcvh6Mmi3zNX7KTkTvlWcYZKro0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779968408726-c2g2nucvr9i3dh04kjubtdbs3ocna550.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
